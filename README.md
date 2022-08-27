@@ -12,15 +12,25 @@ Requirements:
 4. create python project in pycharm
 5. run these commands in terminal 
     pip install selenium
+    
     pip install webdriver-manager //for managing web driver
+    
     pip install openpyxl //for managing excel data
+    
     pip install schedule // for scheduling tasks to run at a particular date and time
+    
     pip install smtplib // for sending email
+    
     pip install allure-pytest
+    
     pip install pytest
+    
     pip install unittest
+    
     pip install python-dotenv // for setting up .env file.
+    
     pip install prettytable // for generating html tables
+    
 If you choose visual studio as your go to editor, then download python in visual studio code and run the above 
 commands after creating a project.
 
