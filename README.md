@@ -1,4 +1,5 @@
 # Selenium-PageObjectModel-POC
+read this documentation on medium - https://venkata-aravind-marni.medium.com/selenium-automation-testing-with-page-object-model-pom-using-python-poc-5ca80e61a4d0
 
 Selenium Automation Testing using Python 
 Requirements: 
